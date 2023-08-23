@@ -11,5 +11,5 @@ que1.listen(port,function (){
     console.log(port)
 })
 //(function (a, b) {
-    ///return a + b + 100;
+    ///return a + b;
 //});
