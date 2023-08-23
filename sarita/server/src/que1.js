@@ -1,3 +1,6 @@
-(function (a, b) {
-    return a + b ;
-  });
+function que1(){
+    console.log(a+b);
+    
+    }
+    
+    module.exports = ''
